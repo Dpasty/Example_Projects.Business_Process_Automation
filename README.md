@@ -30,4 +30,4 @@
 
 ![prod_example](/misc/prod_example.png "Пример работы в prod режиме")
 
-![dev_example_1](/misc/dev_example_1.png "Пример работы в dev режиме, первая часть") ![dev_example_2](/misc/dev_example_2.png "Пример работы в dev режиме, вторая часть")
+![example_dev_1](/misc/example_dev_1.png "Пример работы в dev режиме, первая часть") ![example_dev_2](/misc/example_dev_2.png "Пример работы в dev режиме, вторая часть")
