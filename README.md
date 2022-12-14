@@ -27,7 +27,11 @@
 * Завершить работу программы
 
 ### Примеры работы
+*В режиме prod*
 
 ![prod_example](/misc/prod_example.png "Пример работы в prod режиме")
 
-![example_dev_1](/misc/example_dev_1.png "Пример работы в dev режиме, первая часть") ![example_dev_2](/misc/example_dev_2.png "Пример работы в dev режиме, вторая часть")
+*В режиме dev*
+
+![example_dev_1](/misc/example_dev_1.png "Пример работы в dev режиме, первая часть")
+![example_dev_2](/misc/example_dev_2.png "Пример работы в dev режиме, вторая часть")
